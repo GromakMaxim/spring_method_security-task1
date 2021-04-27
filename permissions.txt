@@ -1,0 +1,3 @@
+Maxim:12345:WRITE;
+Olga:54321:READ;
+Admin:seductiveguy:DELETE;
